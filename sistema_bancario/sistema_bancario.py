@@ -1,25 +1,3 @@
-'''
-3 operações -> depósito, saque, extrato
-
-deposito
-    1. somente valores positivos 
-    2. Todos os depósitos devem ser armazenados em uma variavel 
-       e exibido na operação extrato
-
-saque
-    1. Somente 3 saque diários
-    2. Limite máximo de 500,00 por saque
-    3. Exibir mensagem para o usuário caso ele não tenha saldo
-    4. Todos os saques devem ser armazenados em uma variavel e exibidas na operação extrato
-
-extrato
-    1. Listar todos os depósitos e saques realizados na conta
-    2. No fim da listagem deve ser exibida o saldo atual
-    3. Se o extrato estiver em branco, exibir a mensagm "Não foram
-       realizadas movimentações"
-    4. Os valores devem ser exibidos utilizando o formato R$ xxx.xx
-'''
-
 menu = """
 
 [d] Depositar
