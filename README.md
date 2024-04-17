@@ -5,3 +5,7 @@ Sistema bancário desenvolvido em Python
  - Depositar
  - Sacar
  - Extrato
+ - Criar Usuário
+ - Criar conta
+ - Exibir Extrato
+   
